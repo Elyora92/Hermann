@@ -1,6 +1,7 @@
 # Hermann pie
 
 App to help bake a Hermann pie and keep track of the tasks per day. Get notifications each day to remember to care for your Hermann.
+App is in German for now.
 
 ## Ingredients
 
