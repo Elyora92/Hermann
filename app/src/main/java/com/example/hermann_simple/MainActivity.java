@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
                                 setAllCheckedFalse();
                                 enable(Day0);
                                 restartTimer();
+                                Day0.setText(R.string.day0);
                             }
                         }).show();
             }
@@ -220,7 +221,7 @@ public class MainActivity extends AppCompatActivity {
             }
             if(Day10.isChecked())
             {
-                Day0.setText("Kuchen backen!");
+                Day0.setText(R.string.day0_second);
                 setAllCheckedFalse();
                 restartTimer();
                 enable(Day0);
