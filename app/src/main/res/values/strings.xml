@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hermann</string>
+    <string name="app_name_long">Backe einen Hermann!</string>
+    <string name="action_settings">Settings</string>
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">Description</string>
+    <string name="notification_title">Heute schon reingeschaut?</string>
+    <string name="notification_text">Kümmere dich gut um deinen Hermann!</string>
+    <string name="day0">Grundteig erstellen.</string>
+    <string name="day1">1. Tag: Ruhen lassen.</string>
+    <string name="day2">2. Tag: Umrühren.</string>
+    <string name="day3">3. Tag: Umrühren.</string>
+    <string name="day4">4. Tag: Umrühren.</string>
+    <string name="day5">5. Tag: Füttern – 100 g Weizenmehl, 150 g Zucker und 150 ml Milch zugeben. Gut verrühren.</string>
+    <string name="day6">6. Tag: Umrühren.</string>
+    <string name="day7">7. Tag: Umrühren.</string>
+    <string name="day8">8. Tag: Umrühren.</string>
+    <string name="day9">9. Tag: Umrühren.</string>
+    <string name="day10">10. Tag: Füttern – 100 g Weizenmehl, 150 g Zucker und 150 ml Milch zugeben. Gut verrühren.</string>
+    <string name="action_recipe">Grundrezept</string>
+    <string name="title_activity_recipe">Rezept</string>
+    <string name="recipe1">Zutaten für den Teigansatz:</string>
+    <string name="recipe_list1">- 100 g Weizenmehl</string>
+    <string name="recipe_list2">- 1 EL Zucker</string>
+    <string name="recipe_list3">- 2 gestr. TL Trockenhefe</string>
+    <string name="recipe_list4">- 150 ml lauwarmes Wasser</string>
+    <string name="recipe_list5">- Schüssel aus Glas oder Plastik mit Deckel oder ein platzsparendes etwa 1,5 Liter fassendes Bügelglas</string>
+    <string name="recipe_list6">- Rührlöffel aus Holz oder Plastik</string>
+    <string name="recipe2">Hinweis: Verwende keinen Behälter oder Rührlöffel aus Metall, weil das den erwünschten Bakterienkulturen nicht bekommt.</string>
+    <string name="recipe3">Grundteig herstellen:</string>
+    <string name="recipe_list7">- Alle Zutaten in die Schüssel oder das Glas geben und mit dem Löffel zu einem glatten Teig verrühren.</string>
+    <string name="recipe_list8">- Gefäß verschließen und den Teigansatz für zwei Tage bei Zimmertemperatur reifen lassen. Ab und zu umrühren.</string>
+    <string name="recipe4">Achtung: Decke das Gefäß so ab, dass Hermann einerseits vor Verunreinigungen geschützt ist, andererseits Überdruck entweichen kann. Falls du ein Schraubglas verwendest, lege den Deckel nur lose auf, da es sonst platzen könnte!</string>
+    <string name="recipe5">Nach dieser Zeit sollte der Teig aufgrund der einsetzenden Milchsäuregärung lebhaft blubbern und leicht säuerlich riechen. Die darin enthaltenen Kulturen aus Bakterien und Hefen bilden eine Symbiose, die den Teig im Gleichgewicht hält. Der Hermann-Teig kann nun so weiter verarbeitet werden, wie eine geschenkte Portion.</string>
+</resources>
